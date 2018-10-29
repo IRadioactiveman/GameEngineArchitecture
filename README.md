@@ -1,6 +1,6 @@
 # GameEngineArchitecture
 
-Hallo, zum builden werden nur noch die lib Dateien für GLEW und SDL benötigt, die gibt es im Netz oder in Timos Projekt.
+Hallo, zum builden werden nur noch die lib Dateien für GLEW und SDL benötigt, die gibt es im Netz oder in Timos Projekt. Gearbeitet wurde mit OpenGL 3.3.
 
 Project 1: Cube.exe
 erstellt ein Fenster und malt einen bunten Würfel in die Mitte der Welt. Man kann sich mit der Maus wie in einem Ego Shooter umsehen und mit wads oder den Pfeiltasten bewegen.
