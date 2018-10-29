@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+c:\bullet\bullet3-2.87\src\linearmath\btidebugdraw.h(169): warning C4305: "Argument": Verkürzung von "double" in "const btScalar"
+c:\bullet\bullet3-2.87\src\linearmath\btidebugdraw.h(170): warning C4305: "Argument": Verkürzung von "double" in "const btScalar"
+c:\bullet\bullet3-2.87\src\linearmath\btidebugdraw.h(171): warning C4305: "Argument": Verkürzung von "double" in "const btScalar"
+  Project2.vcxproj -> C:\Users\Gott\source\repos\GameEngineArchitecture\x64\Debug\Scene.exe

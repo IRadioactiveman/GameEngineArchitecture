@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Project1.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  shader.cpp
+  Quelle.cpp
+  Code wird generiert...
+  Project1.vcxproj -> C:\Users\Gott\source\repos\GameEngineArchitecture\x64\Debug\Cube.exe
